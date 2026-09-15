@@ -1,6 +1,6 @@
-Liczby w PHP:<br>
-
-1. Całkowite:<br>
+/*
+    Skrypt PHP do demonstracji typów zmiennych
+*/
 
 <?php
 $liczba1 = 42;
@@ -13,13 +13,3 @@ $LiczbaBin = 0b101010;
 print("<br>Liczba binarna to: " . $LiczbaBin);  
 $LiczbaDuza = 1_234_567;
 print("<br>Liczba duża to: " . $LiczbaDuza);
-?>
-
-<br><br>2. Zmiennoprzecinkowe:<br>
-<?php
-$liczba = 1.234;
-print( "<br>Liczba zmiennoprzecinkowa: ". $liczba);
-$LiczbaWykladnicza = 1.2e3;  // 1.2*10**3
-print( "<br>Liczba Wykładnicza: ". $LiczbaWykladnicza );
-$LiczbaMala = 7E-10;  // 7*10**(-10)
-print( "<br>Liczba mała: ". $LiczbaMala );
