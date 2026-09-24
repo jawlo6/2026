@@ -1,0 +1,1 @@
+Utwórz tablicę zawierającą 100 kolej nych liczb od 1 do 100 a następnie wypisz te liczby.Użyj dwóch różnych pętli

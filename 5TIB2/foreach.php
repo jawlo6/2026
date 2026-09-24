@@ -1,0 +1,1 @@
+Utwórz tablicę asocjacyjną zawierającą trzy owoce i ich ceny. Wypisz zawartość przy użyciu funkcji foreach.
