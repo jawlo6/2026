@@ -1,0 +1,1 @@
+Napisz program wypisujący 20 kolejnych liczb parzystych począwszy od 2 (użyj pętli while, for)
