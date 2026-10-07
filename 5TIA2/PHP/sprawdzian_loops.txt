@@ -1,0 +1,4 @@
+1. Przy użyciu pętli while wypisz kolejne liczby od 10 do 0
+2. Przy użyciu pętli do..while wypisz liczby parzyste od 0 do 100
+3. Przy użyciu pętli for oblicz sumę elementów tablicy zawierającej cztery liczby.
+4. Przy użyciu pętli foreach wypisz zawartość tablicy zawierające trzy nazwy owoców.
