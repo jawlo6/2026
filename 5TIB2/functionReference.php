@@ -4,5 +4,5 @@
 		$val++;
         echo $val."<br>";
     }
-    functionReference($value);
+functionReference($value);
     echo $value;
