@@ -9,6 +9,6 @@
     }
 </style>
 <table>
-    <tr><td>data</td><td>czas</td></tr>
+    <tr><th>data</th><th>czas</th></tr>
     <tr><td><?php echo date("Y-m-d"); ?></td><td><?php echo date("H:i:s"); ?></td></tr> 
 </table>
