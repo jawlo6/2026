@@ -1,0 +1,3 @@
+kwerenda 1:
+insert into rezerwacje(`nr_stolika`,`data_rez`,`liczba_osob`, `telefon`) values (1, "2017-07-04", 4, "111222333" );
+
