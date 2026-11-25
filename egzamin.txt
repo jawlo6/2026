@@ -1,0 +1,8 @@
+1. W programie PHPmyAdmin usuń bazę "baza"
+2. W folderze c:\xampp\htdocs utwórz folder 5TIA2
+3. W progamie Visual Studio Code w menu "File" wybierz "Open Folder" i wybierz powyższy folder jako folder roboczy
+4. Ze strony 192.168.10.200 pobieramy plik egzamin.zip (w przeglądarce wpisujemy 192.168.10.200/egzamin.zip)
+i zapisujemy w folderze roboczym, po czym rozpakowujemy
+
+
+
