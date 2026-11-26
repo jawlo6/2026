@@ -1,0 +1,4 @@
+1. Przy użyciu pętli for wypisz kolejne liczby od 10 do 0
+2. Przy użyciu pętli do..while wypisz liczby niparzyste od 0 do 50
+3. Przy użyciu pętli while oblicz sumę elementów tablicy zawierającej cztery liczby.
+4. Przy użyciu pętli foreach wypisz zawartość tablicy zawierające trzy nazwy samochodów.
